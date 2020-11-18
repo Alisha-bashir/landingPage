@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/landingPage/static/js/main.0e37de67.chunk.js",
+    "main.js.map": "/landingPage/static/js/main.0e37de67.chunk.js.map",
+    "runtime-main.js": "/landingPage/static/js/runtime-main.1ee1dd8f.js",
+    "runtime-main.js.map": "/landingPage/static/js/runtime-main.1ee1dd8f.js.map",
+    "static/css/2.1dfa3b1b.chunk.css": "/landingPage/static/css/2.1dfa3b1b.chunk.css",
+    "static/js/2.bca9c50d.chunk.js": "/landingPage/static/js/2.bca9c50d.chunk.js",
+    "static/js/2.bca9c50d.chunk.js.map": "/landingPage/static/js/2.bca9c50d.chunk.js.map",
+    "index.html": "/landingPage/index.html",
+    "static/css/2.1dfa3b1b.chunk.css.map": "/landingPage/static/css/2.1dfa3b1b.chunk.css.map",
+    "static/js/2.bca9c50d.chunk.js.LICENSE.txt": "/landingPage/static/js/2.bca9c50d.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/landingPage/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/team-1-800x800.fa5a7ac2.jpg": "/landingPage/static/media/team-1-800x800.fa5a7ac2.jpg",
+    "static/media/team-2-800x800.3e08ef14.jpg": "/landingPage/static/media/team-2-800x800.3e08ef14.jpg",
+    "static/media/team-3-800x800.19201574.jpg": "/landingPage/static/media/team-3-800x800.19201574.jpg",
+    "static/media/team-4-470x470.f22defa0.png": "/landingPage/static/media/team-4-470x470.f22defa0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ee1dd8f.js",
+    "static/css/2.1dfa3b1b.chunk.css",
+    "static/js/2.bca9c50d.chunk.js",
+    "static/js/main.0e37de67.chunk.js"
+  ]
+}
